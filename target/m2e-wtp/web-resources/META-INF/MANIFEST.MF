@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: hayth
+Build-Jdk: 16
+Implementation-Title: AngularSpringboot Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.assignment
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
